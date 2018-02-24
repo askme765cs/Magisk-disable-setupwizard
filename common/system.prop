@@ -1,0 +1,3 @@
+# This file will be read by resetprop
+#disable setupwizard
+ro.setupwizard.mode=DISABLED

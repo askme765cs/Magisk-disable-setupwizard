@@ -1,0 +1,7 @@
+id=template
+name=Disable Setupwizard Module
+version=v1
+versionCode=1
+author=askme765cs
+description=This moudle will disable Setupwizard for you,which will be useful if you have no Internet connection (or just have no access to google) after a clean flash of gapps.
+minMagisk=1500
