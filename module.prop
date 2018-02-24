@@ -1,5 +1,5 @@
-id=template
-name=Disable Setupwizard Module
+id=magisk-disable-setupwizard
+name=magisk-disable-setupwizard
 version=v1
 versionCode=1
 author=askme765cs
